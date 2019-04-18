@@ -76,3 +76,11 @@ section.skills.offset .progress{ transform: translateX(-100%); }
 section.portfolio { text-align: center; margin-bottom: 100px; }
 section.portfolio .swiper-container { width: 900px; height: 600px; box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.5);}  
 
+section h2{
+    width: 700px;
+    margin: 20px auto;
+}
+section form{
+    width: 700px;
+    margin: 20px auto;
+}
